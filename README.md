@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm inctzlauriebaker647
 
-<!--
-**inctzlauriebaker647/inctzlauriebaker647** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏊 🚀 A freak in natural language processing 🏊 🚀
 
-Here are some ideas to get you started:
+## About Me
+🏹 🛹 🥁 A fan of augmented reality 🏹 🛹 🥁
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🎾 🏒 🎣 🎮 Ready to work on databases 🎾 🏒 🎣 🎮
+
+### Fun Facts
+🔥 🛹 🎽 Working on back-end development 🔥 🛹 🎽
+
+---
+🎰 🥁 🏹 🎹 🏸 Thanks for visiting my profile! 🎾 🏓 🎵 🎤 🏑
